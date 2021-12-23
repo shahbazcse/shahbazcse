@@ -1,34 +1,57 @@
-<h1 align="center">Hi 👋, I'm Shahbaz Ahmad</h1>
-<h3 align="center">A passionate fullstack developer from India pursuing Bachelor of Computer Science</h3>
+## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaz-cse&label=Profile%20views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
+I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer Science from [Aryabhatta Knowledge University](http://akubihar.ac.in/). <br>I am a tech enthusiast & a fullstack developer in making. I am always open to collaborating on projects and innovative/disruptive ideas.<br>
+Find out more about me & feel free to connect with me here:
 
-<p align="left"> <a href="https://twitter.com/shahbaz_cse" target="blank"><img src="https://img.shields.io/twitter/follow/shahbaz_cse?logo=twitter&style=for-the-badge" alt="shahbaz_cse" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-shahbazcse-informational?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahbazcse/)](https://www.linkedin.com/in/shahbazcse/)
+[![Instagram Badge](https://img.shields.io/badge/-shahbazcse-darkred?style=curved-square&logo=instagram&logoColor=white&link=https://instagram.com/shahbazcse/)](https://www.instagram.com/shahbazcse/)
+[![Twitter Badge](https://img.shields.io/badge/-shahbaz_cse-9cf?style=curved-square&logo=twitter&logoColor=white&link=https://twitter.com/shahbaz_cse)](https://twitter.com/shahbaz_cse)
+[![Blog Badge](https://img.shields.io/badge/-Blogs-blueviolet?style=curved-square&labelColor=blueviolet&logo=Wordpress&link=https://codedec.com/course/data-structure-and-algorithm-tutorial/)](https://codedec.com/course/data-structure-and-algorithm-tutorial/)
+[![Gmail Badge](https://img.shields.io/badge/-cseshahbaz@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:cseshahbaz@gmail.com)](mailto:cseshahbaz@gmail.com)
+<!-- [![Hashnode Badge](https://img.shields.io/badge/-@usernamehere-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=profileurlhere)](profileurlhere)-->
+<!--[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=portfoliourlhere)](portfoliourlhere)-->
 
-- 🔭 I’m currently working on [MERN-App](https://github.com/shahbaz-cse/MERN-App)
 
-- 🌱 I’m currently learning **React, Express, MongoDB, Node.js, Java, Data Structures & Algorithms**
+[![Shahbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahbaz-cse&theme=xcode)](https://git.io/shahbaz-cse)
 
-- 🤝 I’m looking for help with [MERN-App](https://github.com/shahbaz-cse/MERN-App)
 
-- 💬 Ask me about **JavaScript, CSS, HTML, Content Creation**
+## ⚡ Technologies
 
-- 📫 How to reach me **cseshahbaz@gmail.com**
+### Language :
+![Java](https://img.shields.io/badge/-java-E34A86?style=curved-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=curved-square&logo=Python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=curved-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=curved-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=curved-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=curved-square&logo=css3)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shahbaz_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shahbaz_cse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shahbazcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahbazcse" height="30" width="40" /></a>
-<a href="https://fb.com/iamshahbazahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamshahbazahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/shahbazcse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahbazcse" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discordapp.com/users/772877394339430420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discordapp.com/users/772877394339430420" height="30" width="40" /></a>
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=curved-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=curved-square&logo=bootstrap)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=curved-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=curved-square&logo=Express)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=curved-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=curved-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+<a href="#"><img alt="Robo3T" src="https://img.shields.io/badge/Robo3T-white?logo=postman&logoColor=green"></a>
+
+
+<!-- ## 💰 Support
+<p>
+<a href='linkhere' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='linkhere' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Shahbaz on buymecoffee' /></a>
+</p> -->
+
+## 📈 Stats
+<p align="center">
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahbaz-cse&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-cse&theme=tokyonight" />
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shahbaz-cse&show_icons=true&locale=en&layout=compact" alt="shahbaz-cse" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahbaz-cse&show_icons=true&locale=en" alt="shahbaz-cse" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-cse&" alt="shahbaz-cse" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaz-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
