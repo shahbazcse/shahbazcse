@@ -12,7 +12,7 @@ Find out more about me & feel free to connect with me here:
 <!--[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=portfoliourlhere)](portfoliourlhere)-->
 
 
-[![Shahbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahbaz-cse&theme=xcode)](https://git.io/shahbaz-cse)
+[![Shahbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahbazcse&theme=xcode)](https://git.io/shahbaz-cse)
 
 
 ## ⚡ Technologies
@@ -51,7 +51,7 @@ Find out more about me & feel free to connect with me here:
 ## 📈 Stats
 <p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahbaz-cse&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbaz-cse&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahbazcse&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazcse&theme=tokyonight" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbaz-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
