@@ -12,7 +12,7 @@ Find out more about me & feel free to connect with me here:
 <!--[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=portfoliourlhere)](portfoliourlhere)-->
 
 
-[![Shahbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahbazcse&theme=xcode)](https://git.io/shahbaz-cse)
+[![Shahbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahbazcse&theme=xcode)](https://git.io/shahbazcse)
 
 
 ## ⚡ Technologies
