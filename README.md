@@ -1,4 +1,4 @@
-## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
 
 I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer Science from [Aryabhatta Knowledge University](http://akubihar.ac.in/). <br>I am a tech enthusiast & a fullstack developer in making. I am always open to collaborating on projects and innovative/disruptive ideas.<br>
 Find out more about me & feel free to connect with me here:
