@@ -11,8 +11,7 @@ Find out more about me & feel free to connect with me here:
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-@usernamehere-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=profileurlhere)](profileurlhere)-->
 <!--[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=portfoliourlhere)](portfoliourlhere)-->
 
-
-<!-- [![Shahbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=shahbazcse&theme=xcode)](https://git.io/shahbazcse) -->
+[![Shahbaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahbazcse&bg_color=00222e&color=c7a9fe&line=c7a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## ⚡ Technologies
