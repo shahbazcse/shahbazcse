@@ -1,17 +1,48 @@
 ## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
 
 I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer Science from [Aryabhatta Knowledge University](http://akubihar.ac.in/). <br>I am a tech enthusiast & a fullstack developer in making. I am always open to collaborating on projects and innovative/disruptive ideas.<br>
-Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-shahbazcse-informational?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahbazcse/)](https://www.linkedin.com/in/shahbazcse/)
-[![Twitter Badge](https://img.shields.io/badge/-shahbaz_cse-9cf?style=curved-square&logo=twitter&logoColor=white&link=https://twitter.com/shahbaz_cse)](https://twitter.com/shahbaz_cse)
-[![Hashnode Badge](https://img.shields.io/badge/Hashnode-@shahbazcse-informational?style=flat-square&labelColor=000000&logo=Hashnode&link=https://hashnode.com/@shahbazcse)](https://hashnode.com/@shahbazcse)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-darkred?style=curved-square&logoColor=white&link=https://shahbazcse-markfour.netlify.app/projects.html)](https://shahbazcse-markfour.netlify.app/projects.html)
-[![Blog Badge](https://img.shields.io/badge/-Blogs-blueviolet?style=curved-square&link=https://codedec.com/course/data-structure-and-algorithm-tutorial/)](https://codedec.com/course/data-structure-and-algorithm-tutorial/)
-[![Instagram Badge](https://img.shields.io/badge/-shahbazcse-darkred?style=curved-square&logo=instagram&logoColor=white&link=https://instagram.com/shahbazcse/)](https://www.instagram.com/shahbazcse/)
-[![Gmail Badge](https://img.shields.io/badge/Email-cseshahbaz@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:cseshahbaz@gmail.com)](mailto:cseshahbaz@gmail.com)
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [Portfolio1.0](http://shahbazcse-markfour.netlify.app/projects.html)
+* ✉️  You can contact me at [cseshahbaz@gmail.com](mailto:cseshahbaz@gmail.com)
+* 🧠  I'm learning JavaScript, React, HTML, CSS
+* 🤝  I'm open to collaborating on Frontend Web Applications using React and VanillaJS
 
+<a href="https://www.twitter.com/shahbaz_cse" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/shahbaz_cse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
+<a href="https://www.linkedin.com/in/shahbazcse" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/shahbazcse?logo=linkedin&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
+<a href="https://shahbazahmad.hashnode.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/shahbazahmad?logo=hashnode&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
+</a>
 
+#### Find out more about me & feel free to connect with me here:
+
+<p align="left">
+  <a href="https://www.twitter.com/shahbaz_cse" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.linkedin.com/in/shahbazcse" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  </a>
+  <a href="https://shahbazahmad.hashnode.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" />
+  </a>
+  <a href="http://www.instagram.com/shahbazcse" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.facebook.com/iamshahbazahmad" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.dev.to/shahbazcse" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://discord.com/users/Shahbaz Ahmad#4406" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
+  </a>
+</p>
 
 [![Shahbaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahbazcse&bg_color=00222e&color=c7a9fe&line=c7a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
