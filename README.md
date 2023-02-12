@@ -3,13 +3,15 @@
 I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer Science from [Aryabhatta Knowledge University](http://akubihar.ac.in/). <br>I am a tech enthusiast & a fullstack developer in making. I am always open to collaborating on projects and innovative/disruptive ideas.<br>
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-shahbazcse-informational?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahbazcse/)](https://www.linkedin.com/in/shahbazcse/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-shahbazcse-informational?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahbazcse/)](https://www.linkedin.com/in/shahbazcse/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-shahbaz_cse-9cf?style=curved-square&logo=twitter&logoColor=white&link=https://twitter.com/shahbaz_cse)](https://twitter.com/shahbaz_cse)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-@shahbazcse-informational?style=flat-square&labelColor=000000&logo=Hashnode&link=https://hashnode.com/@shahbazcse)](https://hashnode.com/@shahbazcse)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-darkred?style=curved-square&logoColor=white&link=https://shahbazcse-markfour.netlify.app/projects.html)](https://shahbazcse-markfour.netlify.app/projects.html)
+[![Blog Badge](https://img.shields.io/badge/-Blogs-blueviolet?style=curved-square&link=https://codedec.com/course/data-structure-and-algorithm-tutorial/)](https://codedec.com/course/data-structure-and-algorithm-tutorial/)
 [![Instagram Badge](https://img.shields.io/badge/-shahbazcse-darkred?style=curved-square&logo=instagram&logoColor=white&link=https://instagram.com/shahbazcse/)](https://www.instagram.com/shahbazcse/)
-[![Twitter Badge](https://img.shields.io/badge/-shahbaz_cse-9cf?style=curved-square&logo=twitter&logoColor=white&link=https://twitter.com/shahbaz_cse)](https://twitter.com/shahbaz_cse)
-[![Blog Badge](https://img.shields.io/badge/-Blogs-blueviolet?style=curved-square&labelColor=blueviolet&logo=Wordpress&link=https://codedec.com/course/data-structure-and-algorithm-tutorial/)](https://codedec.com/course/data-structure-and-algorithm-tutorial/)
-[![Gmail Badge](https://img.shields.io/badge/-cseshahbaz@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:cseshahbaz@gmail.com)](mailto:cseshahbaz@gmail.com)
-<!-- [![Hashnode Badge](https://img.shields.io/badge/-@usernamehere-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=profileurlhere)](profileurlhere)-->
-<!--[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=portfoliourlhere)](portfoliourlhere)-->
+[![Gmail Badge](https://img.shields.io/badge/Email-cseshahbaz@gmail.com-c14438?style=curved-square&logo=Gmail&logoColor=white&link=mailto:cseshahbaz@gmail.com)](mailto:cseshahbaz@gmail.com)
+
+
 
 [![Shahbaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahbazcse&bg_color=00222e&color=c7a9fe&line=c7a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -47,10 +49,11 @@ Find out more about me & feel free to connect with me here:
 <a href='linkhere' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Shahbaz on buymecoffee' /></a>
 </p> -->
 
-<!-- ## 📈 Stats
-<p align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shahbazcse&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahbazcse&theme=tokyonight" />
+## 📈 Stats
+<p align="left">
+  <a href="http://www.github.com/shahbazcse">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=shahbazcse&theme=onedark_duo&background=00222E&border=00222E&stroke=C8AAFF&ring=FF5B5B&fire=FF5B5B&currStreakNum=C7A9FE&sideNums=C7A9FE&currStreakLabel=EB5454&sideLabels=EB5454&dates=FFFFFF"/>
+  </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
