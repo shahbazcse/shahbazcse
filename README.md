@@ -3,8 +3,8 @@
 I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer Science from [Aryabhatta Knowledge University](http://akubihar.ac.in/). <br>I am a tech enthusiast & a fullstack developer in making. I am always open to collaborating on projects and innovative/disruptive ideas.<br>
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-shahbazcse-informational?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahbazcse/)](https://www.linkedin.com/in/shahbazcse/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-shahbaz_cse-9cf?style=curved-square&logo=twitter&logoColor=white&link=https://twitter.com/shahbaz_cse)](https://twitter.com/shahbaz_cse)
+[![Linkedin Badge](https://img.shields.io/badge/-shahbazcse-informational?style=curved-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shahbazcse/)](https://www.linkedin.com/in/shahbazcse/)
+[![Twitter Badge](https://img.shields.io/badge/-shahbaz_cse-9cf?style=curved-square&logo=twitter&logoColor=white&link=https://twitter.com/shahbaz_cse)](https://twitter.com/shahbaz_cse)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-@shahbazcse-informational?style=flat-square&labelColor=000000&logo=Hashnode&link=https://hashnode.com/@shahbazcse)](https://hashnode.com/@shahbazcse)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-darkred?style=curved-square&logoColor=white&link=https://shahbazcse-markfour.netlify.app/projects.html)](https://shahbazcse-markfour.netlify.app/projects.html)
 [![Blog Badge](https://img.shields.io/badge/-Blogs-blueviolet?style=curved-square&link=https://codedec.com/course/data-structure-and-algorithm-tutorial/)](https://codedec.com/course/data-structure-and-algorithm-tutorial/)
