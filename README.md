@@ -44,7 +44,7 @@ I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer
   </a>
 </p>
 
-[![Shahbaz's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=shahbazcse&bg_color=00222e&color=c7a9fe&line=c7a9fe&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Shahbaz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shahbazcse&bg_color=121112&color=4a87e8&line=4a87e8&point=a2afbe&area=true&hide_border=true)
 
 
 ## ⚡ Technologies
