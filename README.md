@@ -49,30 +49,29 @@ I have been building web applications consistently for the past 1+ year. I have 
 
 ## ⚡ Technologies
 
-### Language :
-![Java](https://img.shields.io/badge/-java-E34A86?style=curved-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=curved-square&logo=Python)
-![C++](https://img.shields.io/badge/-C++-00599C?style=curved-square&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=curved-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=curved-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=curved-square&logo=css3)
+### Languages :
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 
-### Libraries & Framework :
+### Frameworks :
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-black?style=curved-square&logo=react)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=curved-square&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=curved-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=curved-square&logo=Express)
-<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+### Developer Tools & Technologies :
 
-### DevOps & Cloud Tools:
-
-<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-white?style=curved-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=curved-square&logo=git)
-<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-<a href="#"><img alt="Robo3T" src="https://img.shields.io/badge/Robo3T-white?logo=postman&logoColor=green"></a>
-
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white)
 
 <!-- ## 💰 Support
 <p>
