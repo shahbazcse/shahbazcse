@@ -6,7 +6,7 @@ I have been building web applications consistently for the past 1+ year. I have 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [shahbaz.vercel.app](https://shahbaz.vercel.app)
 * ✉️  You can contact me at [cseshahbaz@gmail.com](mailto:cseshahbaz@gmail.com)
-* 🤝  I'm open to collaborating on Full Stack Web Applications using React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB.
+* 🤝  I'm open to collaborating on Full Stack Web Applications using Next.js, React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB.
 
 <a href="https://www.twitter.com/shahbaz_cse" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/shahbaz_cse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
