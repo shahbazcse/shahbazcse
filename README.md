@@ -1,7 +1,7 @@
 ## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
 
 I have been building web applications consistently for the past 1+ year. I have experience in developing multiple web applications from ground zero to full stack, using React.js, Redux, Tailwind CSS, Node.js, MongoDB and a wide range of related tech stacks. 
-I have experience with component-based and modular architectures and writing scalable and efficient code. I am a tech enthusiast & a fullstack developer. I am always open to collaborating on projects and innovative/disruptive ideas.
+<br>I have experience with component-based and modular architectures and writing scalable and efficient code. I am a tech enthusiast & a fullstack developer. I am always open to collaborating on projects and innovative/disruptive ideas.</br>
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [shahbaz.vercel.app](https://shahbaz.vercel.app)
