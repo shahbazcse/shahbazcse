@@ -1,12 +1,12 @@
 ## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
 
-I am Shahbaz Ahmad, currently pursuing my Bachelor's Degree majoring in Computer Science from [Aryabhatta Knowledge University](http://akubihar.ac.in/). <br>I am a tech enthusiast & a fullstack developer in making. I am always open to collaborating on projects and innovative/disruptive ideas.<br>
+I have been building web applications consistently for the past 1+ year. I have experience in developing multiple web applications from ground zero to full stack, using React.js, Redux, Tailwind CSS, Node.js, MongoDB and a wide range of related tech stacks. 
+I have experience with component-based and modular architectures and writing scalable and efficient code. I am a tech enthusiast & a fullstack developer. I am always open to collaborating on projects and innovative/disruptive ideas.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Portfolio1.0](http://shahbazcse-markfour.netlify.app/projects.html)
+* 🖥️  See my portfolio at [shahbaz.vercel.app](https://shahbaz.vercel.app)
 * ✉️  You can contact me at [cseshahbaz@gmail.com](mailto:cseshahbaz@gmail.com)
-* 🧠  I'm learning JavaScript, React, HTML, CSS
-* 🤝  I'm open to collaborating on Frontend Web Applications using React and VanillaJS
+* 🤝  I'm open to collaborating on Full Stack Web Applications using React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB.
 
 <a href="https://www.twitter.com/shahbaz_cse" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/shahbaz_cse?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/>
