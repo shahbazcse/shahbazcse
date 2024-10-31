@@ -4,7 +4,7 @@ I have been building web applications consistently for the past 1+ year. I have 
 <br>I have experience with component-based and modular architectures and writing scalable and efficient code. I am a tech enthusiast & a fullstack developer. I am always open to collaborating on projects and innovative ideas.</br>
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [shbz.dev](www.shbz.dev)
+* 🖥️  See my portfolio at [shbz.dev](https://www.shbz.dev)
 * ✉️  You can contact me at [cseshahbaz@gmail.com](mailto:cseshahbaz@gmail.com)
 * 🤝  I'm open to collaborating on Full Stack Web Applications using Next.js, React, Redux, Tailwind CSS, Node.js, Express.js, MongoDB.
 
