@@ -1,4 +1,16 @@
-## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
+### Hey, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
+
+#### Update: Contributions made between 2024-present can be found here: (Merlin AI | Foyer Tech.): [Merlin AI Github Profile](https://github.com/shahbaz-foyer)
+#### Work Record (Merlin AI): [https://shahbazahmad.notion.site/work-record](https://shahbazahmad.notion.site/11df7495cec18041bd35f391f6790b31?v=f5f0ced6204641549b2a3e01817e3d0d&pvs=4)
+
+#### Find out more about me & feel free to connect with me here:
+**Portfolio**: [shbz.dev](https://www.shbz.dev)</br>
+**X/Twitter**: http://x.com/shahbaz_cse</br>
+**LinkedIn**: https://www.linkedin.com/in/shahbazcse</br>
+</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
+
+<!--## Hi, I am Shahbaz! Great to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height="40" width="40px">
 
 I have been building web applications consistently for the past 1+ year. I have experience in developing multiple web applications from ground zero to full stack, using Next.js, React.js, Redux, Tailwind CSS, Node.js, MongoDB and a wide range of related tech stacks. 
 <br>I have experience with component-based and modular architectures and writing scalable and efficient code. I am a tech enthusiast & a fullstack developer. I am always open to collaborating on projects and innovative ideas.</br>
@@ -77,7 +89,7 @@ I have been building web applications consistently for the past 1+ year. I have 
 <p>
 <a href='linkhere' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi4.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <a href='linkhere' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' border='0' alt='Support Shahbaz on buymecoffee' /></a>
-</p> -->
+</p>
 
 
 ## 📈 Stats
@@ -86,4 +98,4 @@ I have been building web applications consistently for the past 1+ year. I have 
     <img src="https://github-readme-streak-stats.herokuapp.com?user=shahbazcse&theme=onedark_duo&background=00222E&border=00222E&stroke=C8AAFF&ring=FF5B5B&fire=FF5B5B&currStreakNum=C7A9FE&sideNums=C7A9FE&currStreakLabel=EB5454&sideLabels=EB5454&dates=FFFFFF"/>
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazcse&label=Profile%20Views&color=0e75b6&style=flat" alt="shahbaz-cse" /> </p> -->
